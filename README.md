@@ -14,11 +14,11 @@ O teste consiste em criar uma aplicação com PHP usando FrameWork Laravel e Mys
 -   Listagem dos dados de Usuários
 -   Paginação dos dados na API
 
-### Melhorias
+### Proximas implementações (melhorias)
 
+-   Implementação das funcionalidades de Criação, Atualização e Deleção pela Interface
 -   Autenticação das rotas de consulta por Token
 -   Implementação de layout autoral
--   Implementação das funcionalidades de Criação, Atualização e Deleção pela Interface
 
 ## Tecnologias utilizadas
 
@@ -26,6 +26,7 @@ O teste consiste em criar uma aplicação com PHP usando FrameWork Laravel e Mys
 -   React.js
 -   Typescript
 -   Tailwind CSS
+-   Flowbite
 -   Axios
 -   Date-fns
 
